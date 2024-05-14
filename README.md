@@ -1,6 +1,12 @@
 # The math behind
+
+## Precise jitter
 $$
-\sqrt\frac{(num_0-M_{ediaValori})^2+...+(num_n-M_{ediaValori})^2}{N-1}
+\sqrt\frac{(num_0-Avg)^2+...+(num_n-Avg)^2}{N-1}
+$$
+## Less precise jitter
+$$
+\sqrt\frac{(num_0-Avg)^2+...+(num_n-Avg)^2}{N}
 $$
 
 # Usage
