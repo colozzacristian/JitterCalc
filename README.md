@@ -1,3 +1,9 @@
+# What are the output values
+## averange
+The averange delay
+## Jitter
+It tells us the averange variation of the delay
+
 # The math behind
 
 ## Precise jitter
